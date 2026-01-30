@@ -12,7 +12,7 @@ export default defineConfig({
 
   lang: 'zh-CN',
   title: 'SetoX初衍',
-  description: '顾白，包含前端常用知识、源码阅读笔记、算法笔记与技术成长、LeetCode题解、日常提效工具等',
+  description: '天道酬勤星河长明，包含前端常用知识、源码阅读笔记、算法笔记与技术成长、LeetCode题解、日常提效工具等',
   head,
 
   lastUpdated: true,
