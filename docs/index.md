@@ -5,7 +5,7 @@ layoutClass: 'm-home-layout'
 hero:
   name: TDChouQ
   text: 学习路线
-  tagline: 基于 VitePress 的个人前端导航页面
+  tagline: 天道酬勤，星河长明
   image:
     src: /logo.png
     alt: 茂茂物语
