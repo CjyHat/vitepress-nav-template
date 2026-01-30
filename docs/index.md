@@ -8,9 +8,9 @@ hero:
   tagline: 天道酬勤，星河长明
   image:
     src: /logo.png
-    alt: 茂茂物语
+    alt: 测试页面1
   actions:
-    - text: 茂茂物语
+    - text: 测试页面2
       link: https://notes.fe-mm.com
     - text: 前端导航
       link: /nav/
