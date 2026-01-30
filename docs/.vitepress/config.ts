@@ -11,8 +11,8 @@ export default defineConfig({
   base: APP_BASE_PATH ? `/${APP_BASE_PATH}/` : '/',
 
   lang: 'zh-CN',
-  title: '茂茂物语',
-  description: '茂茂的成长之路，包含前端常用知识、源码阅读笔记、各种奇淫技巧、日常提效工具等',
+  title: 'SetoX初衍',
+  description: '顾白前端模板，包含前端常用知识、源码阅读笔记、算法笔记与技术成长、LeetCode题解、日常提效工具等',
   head,
 
   lastUpdated: true,
